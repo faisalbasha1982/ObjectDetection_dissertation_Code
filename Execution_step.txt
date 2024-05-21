@@ -1,0 +1,80 @@
+code implemented for TripleNet-s and TripleNet-B for 2 datasets
+
+1 code for TripleNet-S for CIFAR 10 Dataset
+
+	* Load the dataset
+
+	* Preprocessing
+
+	* Creating Network Model
+
+	* Train test split data
+
+	* Build the model
+
+	* Train the model
+
+	* Plot the accuracy
+
+2 code for TripleNet-B for CIFAR 10 Dataset
+
+	* Load the dataset
+
+	* Preprocessing
+
+	* Creating Network Model
+
+	* Train test split data
+
+	* Build the model
+
+	* Train the model
+
+	* Plot the accuracy
+
+3 code for TripleNet-S for 2nd Dataset
+
+	* Load the dataset
+
+	* Preprocessing
+
+	* Creating Network Model
+
+	* Train test split data
+
+	* Build the model
+
+	* Train the model
+
+	* Plot the accuracy
+
+4 code for TripleNet-B for 2nd Dataset
+
+	* Load the dataset
+
+	* Preprocessing
+
+	* Creating Network Model
+
+	* Train test split data
+
+	* Build the model
+
+	* Train the model
+
+	* Plot the accuracy
+
+Running process will be done in Google Colab
+
+Existing methods Comparison
+
+Evaluate Existing methods and get performance value
+
+YOLO V3
+
+YOLO V5
+
+Display the performance Graph
+
+For image input load the images in the local directory
+upload the images by click the upload button
